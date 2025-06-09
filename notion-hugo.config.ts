@@ -4,7 +4,7 @@ const userConfig: UserConfig = {
     base_url: "https://notion-hugo.pages.dev",
     mount: {
         manual: false,
-        page_url: 'https://pcloud.notion.site/Notion-DoIt-04bcc51cfe4c49938229c35e4f0a6fb6',
+        page_url: 'https://immense-frog-ec1.notion.site/Notion-Hugo-20d1e535e4ca80859984f6c2f6284f14',
         pages: [
             // {
             //     page_id: '<page_id>',
